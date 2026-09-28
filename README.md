@@ -1,1 +1,1 @@
-These are the assignments # FCS_Assignments
+Training on AI Engineering Skills
