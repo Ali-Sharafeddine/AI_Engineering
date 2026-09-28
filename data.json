@@ -1,0 +1,39 @@
+{
+    "books": [
+        {
+            "book_id": "B001",
+            "title": "Python Crash Course",
+            "author": "Eric Matthes",
+            "genre": "Programming",
+            "quantity": 2
+        },
+        {
+            "book_id": "B002",
+            "title": "Clean Code",
+            "author": "Robert C. Martin",
+            "genre": "Software Engineering",
+            "quantity": 3
+        },
+        {
+            "book_id": "B003",
+            "title": "The Pragmatic Programmer",
+            "author": "Andrew Hunt",
+            "genre": "Programming",
+            "quantity": 1
+        }
+    ],
+    "members": [
+        {
+            "member_id": "M001",
+            "name": "Alice Johnson",
+            "email": "alice@example.com",
+            "borrowed_books": []
+        },
+        {
+            "member_id": "M002",
+            "name": "Bob Smith",
+            "email": "bob@example.com",
+            "borrowed_books": []
+        }
+    ]
+}
